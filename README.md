@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hello, I'm Yash Thakkar
+
+
+Welcome to my GitHub profile! I’m a passionate Android and iOS Developer with experience building user-friendly, innovative, and scalable mobile applications. My journey revolves around creating seamless user experiences and integrating hardware with software to bring ideas to life.
+
+
+#### 🌐 Get in Touch
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/yash--thakkar/)
+- 📧 [**Email**](yashthakkar911@gmail.com)
 
 <!--
 **yashthakkar-dev/yashthakkar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
